@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "pf": "sudo pfctl -ef pf.conf"
+  },
+  "keywords": [],
+  "author": "Sam Washington",
+  "license": "ISC"
+}

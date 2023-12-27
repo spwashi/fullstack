@@ -1,0 +1,38 @@
+h1 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #222;
+  color: var(--accent-color-main);
+  padding: 1rem;
+  margin: 1rem;
+  line-height: 1;
+  font-size: 2rem;
+  outline: thin solid var(--accent-color-main);
+  &:focus {
+    outline: thick solid var(--accent-color-main);
+  }
+}
+#h1-input {
+  background: #222;
+  color: var(--accent-color-main);
+  padding: 1rem;
+  margin: 1rem;
+  line-height: 1;
+  font-size: 2rem;
+  outline: thin solid var(--accent-color-main);
+  font-family: monospace;
+  & + button {
+    background: #222;
+    color: var(--accent-color-main);
+    padding: 1rem;
+    margin: 1rem;
+    line-height: 1;
+    font-size: 2rem;
+    outline: thin solid var(--accent-color-main);
+    font-family: monospace;
+  }
+}
+#h1-input:focus, #h1-input + button:focus {
+  outline: thick solid var(--accent-color-main);
+}

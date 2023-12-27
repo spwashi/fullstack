@@ -1,0 +1,9 @@
+body {
+  &:not([data-debug=debug]) {
+    g {
+      &.rects {
+        display: none;
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+<this codebase>
+
+(to do) {
+    begin adding <storybook components> for the <client-facing features>;
+    create <art boards> in Illustrator for <each site>;
+}[
+    <each site>
+        [
+            <art boards>
+        ]
+    <client-facing features>
+        [
+            <storybook components>
+        ]
+]
+
+(Main Features) {
+    Feature Flags:
+		which cluster of intent
+			(to know what we are building)
+			    [
+			        clear feature identities make it easier to communicate across teams about which things change
+			    ]
+    Form Handling:
+		which process of engagement
+			(to know how others interact)
+			    [
+			        simple channels for collecting input can help reduce complexity in the short and long term
+			    ]
+    GraphQL:
+		which shape of exchange
+			(to remain internally and externally cohesive)
+			    [
+			        build a bridge to maintain structure across contexts
+			    ]
+    User Authentication:
+		which form of identity
+			(to recognize engagement)
+			    [
+			        form structures that facilitate the development of identity
+			    ]
+}
+
+(Third-party Libraries) {
+    TypeScript:
+		which shape is the code
+			(to make quality code more accessible)
+			    [
+		            reduce the vectors where bugs may be introduced
+			    ]
+    React:
+		how should things flow
+			(to have a rhythm about development)
+			    [
+			        choose an ecosystem that enables iterative development
+			    ]
+    Redux:
+		how is state managed
+			(to relate to how the application changes)
+			    [
+			        manage state changes with common language
+			    ]
+    GraphQL:
+		how are queries identified
+			(to synchronize the frontend and the backend)
+			    [
+			        mind communication as a bottleneck
+			    ]
+    Apollo:
+		how do we communicate
+			(to funnel the options into more discrete channels)
+			    [
+			        select tooling that supports your development pace
+			    ]
+    Cypress:
+		how is behavior verified
+			(to be confident about which changes are happening)
+			    [
+			        maintain velocity by monitoring impact
+			    ]
+    Storybook:
+		what is the visual language
+			(to synchronize design and development)
+			    [
+			        communicate across teams to simplify how ideas are referenced
+			    ]
+}
+
+(Generated Code) {
+    "package.json" {
+        "codegen:graphql",
+        "precypress:open"
+    }
+}
+
+<Concept Seeds>
+(Demo Sites) {
+    "Boon" site:
+		what is the goal
+			(to introduce ideas)
+			    [
+			        exploring imagination
+			    ]
+    "Bane" site:
+		what are the constraints
+			(to limit the noise)
+			    [
+			        grounding abstraction
+			    ]
+    "Bone" site:
+		what defines the form
+			(to add structure)
+			    [
+			        considering details
+			    ]
+    "Bonk" site:
+		how does it work
+			(to introduce resilience)
+			    [
+			        maintaining consistency
+			    ]
+    "Honk" site:
+		how does it seem
+			(to understand identity)
+			    [
+			        minding delivery
+			    ]
+}

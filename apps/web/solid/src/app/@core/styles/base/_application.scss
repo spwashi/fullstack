@@ -1,0 +1,21 @@
+#application-container {
+  &.no-admin {
+    .admin--nav {
+      display: none;
+    }
+  }
+
+  .admin--nav {
+    &:before {
+      content: "admin nav";
+    }
+  }
+
+  .app-wrapper {
+    max-width: 95vw;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+  }
+}

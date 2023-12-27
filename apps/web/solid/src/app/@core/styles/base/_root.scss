@@ -1,0 +1,34 @@
+:root {
+  --error-text-color: red;
+  --error-font-family: "JetBrains Mono", monospace;
+  --form-outline: thick solid red;
+  --button-outline: none;
+  --button-focus-outline: thick solid blue;
+  --button-hover-outline: thick solid yellow;
+  --input-wrapper-outline: none;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Consolas, "Courier New", monospace;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+* {
+  font-family: "JetBrains Mono", sans-serif !important;
+}
+section {
+  position: relative;
+}

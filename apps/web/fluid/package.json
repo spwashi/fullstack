@@ -1,0 +1,23 @@
+{
+  "name": "simulation",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:spwashi/D3v7.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "serve -l 5050 _site"
+  },
+  "dependencies": {
+    "ace-builds": "^1.31.2",
+    "d3": "^7.8.5",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/d3": "7.4.3",
+    "sass": "^1.69.5",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.2"
+  }
+}

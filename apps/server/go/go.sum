@@ -1,0 +1,12 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/hybridgroup/mjpeg v0.0.0-20140228234708-4680f319790e/go.mod h1:eagM805MRKrioHYuU7iKLUyFPVKqVV6um5DAvCkUtXs=
+github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
+github.com/spwashi/image-wonder v0.0.0-20231224234651-435a4fb3a50f h1:5UArVRPYFLIzjhU94FU9yZ6uyuhVfLHw7gIi6z/8HDU=
+github.com/spwashi/image-wonder v0.0.0-20231224234651-435a4fb3a50f/go.mod h1:bLnvanXFdQsbus4ezQpybxyyYLwl83HENnsUapO4cGM=
+github.com/spwashi/image-wonder v0.0.0-20231225001148-fbf3dfb83fb8 h1:ui/h+hpXBPsiglnkGaTryZunz0uUh6yDyxZlH6FhuS0=
+github.com/spwashi/image-wonder v0.0.0-20231225001148-fbf3dfb83fb8/go.mod h1:bLnvanXFdQsbus4ezQpybxyyYLwl83HENnsUapO4cGM=
+github.com/spwashi/image-wonder v0.0.0-20231225010044-e030026849a5 h1:frtAZYKhoaqesfg2bzj11csdTVnkC0PROk0l7RuKJM4=
+github.com/spwashi/image-wonder v0.0.0-20231225010044-e030026849a5/go.mod h1:npid227aAV/t/4I7OkH/auZx2/X2NjVqqcrFW6c6tpg=
+gocv.io/x/gocv v0.35.0 h1:Qaxb5KdVyy8Spl4S4K0SMZ6CVmKtbfoSGQAxRD3FZlw=
+gocv.io/x/gocv v0.35.0/go.mod h1:oc6FvfYqfBp99p+yOEzs9tbYF9gOrAQSeL/dyIPefJU=
